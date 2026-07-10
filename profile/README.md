@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/causal-data-science-logo.svg" alt="Causal Data Science Lab" width="760">
+  <img src="assets/causal-data-science-logo.png" alt="Causal Data Science Lab" width="760">
 </p>
 
 # Causal Data Science Lab
