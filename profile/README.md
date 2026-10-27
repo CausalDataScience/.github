@@ -4,6 +4,8 @@
 
 # Causal Science Lab
 
+Lab website: [causalscience.ai](https://causalscience.ai/).
+
 We build methods and tools for causal reasoning with real-world data.
 
 Our work focuses on **pragmatic causal inference**: making causal analysis usable in settings where data are messy, assumptions are imperfect, and researchers still need reliable decisions. We study front-door and proxy methods, orthogonal and debiased learning, sensitivity analysis, causal machine learning, and AI systems for practical causal reasoning.
